@@ -1,0 +1,3 @@
+resources:
+  - name: jenkins_argon
+    type: externalCIServer
